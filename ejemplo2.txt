@@ -1,0 +1,4 @@
+c,20160150-S02E09,Chapter Nine: The Gate,62,accion,Stranger Things T2,9
+p,20191245,The Lion King,118,accion
+c,123456789,Chapter ten; el jorgito y la luisa,62,accion,Stranger Things T2,10
+p,202069420,Nacho Libre,120,humor
